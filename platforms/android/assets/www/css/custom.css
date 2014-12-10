@@ -1,0 +1,49 @@
+
+
+.ui-header h1.ui-title{
+font-size: 2em;
+font-family:'Flamenco', 'Comic Sans MS', 'Comic Sans MS5', cursive;
+padding: 0.5em;
+}
+
+.listview.ui-li-static{
+list-style-type:none;
+}
+.ui-listview>li p {
+font-size: 1.5em;
+text-align: center;
+font-family: 'Handlee', 'Trebuchet MS1', 'Trebuchet MS', sans-serif;
+font-weight:600;
+}
+#item{
+font-size: 1.35em;
+font-family:  'Handlee', 'Trebuchet MS1', 'Trebuchet MS', sans-serif;
+}
+::-webkit-input-placeholder {
+color: #1862c3;
+text-align: center;
+
+}
+#form .ui-input-text{
+width: 60%;
+display: inline-block;
+margin: 0.5em;
+
+}
+.remove.ui-icon-delete{
+font-family:  'Handlee', 'Trebuchet MS1', 'Trebuchet MS', sans-serif;
+}
+#form .ui-input-btn{
+width: 8%;
+display: inline-block;
+font-size: 1em;
+font-family:  'Handlee', 'Trebuchet MS1', 'Trebuchet MS', sans-serif;
+margin-right: 0.5em;
+}
+.done{
+width: 3em;
+height: 3em;
+display: inline;
+}
+
+
